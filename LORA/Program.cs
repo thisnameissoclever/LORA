@@ -18,5 +18,6 @@ namespace LORA
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Lora());
         }
+
     }
 }
